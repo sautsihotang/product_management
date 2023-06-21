@@ -1,0 +1,86 @@
+[
+    {
+        "name" : "Royal canin Hair and Skin",
+        "picture" : "https://cf.shopee.co.id/file/d422d64fb0a8f9120331b8a4f4e090ba",
+        "qty" : 100000,
+        "isActive": true
+    },
+    {
+        "name" : "Royal canin Persian",
+        "picture" : "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//88/MTA-30248223/royal_canin_royal_canin_persian_30_-_10_kg_-_makanan_kucing_full01_o92tx1sx.jpg",
+        "qty" : 110000,
+        "isActive": true
+    },
+    {
+        "name" : "Royal canin Kitten",
+        "picture" : "http://p-id.iqtygroup.com/uploaded_fecc87192bab08d1b00d16f7a2298b21.jpg",
+        "qty" : 140000,
+        "isActive": true
+    },
+    {
+        "name" : "Royal canin Digestive",
+        "picture" : "https://res.cloudinary.com/ruparupa-com/image/upload//f_auto,q_auto:eco/v1636386557/Products/10068114_1.jpg",
+        "qty" : 210000,
+        "isActive": true
+    },
+    {
+        "name" : "Nutri-plus gel",
+        "picture" : "https://makassarhobi.com/wp-content/uploads/2020/04/LU3rIC3.jpg",
+        "qty" : 125000,
+        "isActive": true
+    },
+    {
+        "name" : "Pet Food Dispenser",
+        "picture" : "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2022/3/4/3ee2fd96-f2d2-4ee2-8bed-5b994a276fa2.jpg",
+        "qty" : 400000,
+        "isActive": true
+    },
+    {
+        "name" : "Catit Senses",
+        "picture" : "https://lzd-img-global.slatic.net/g/p/dc3f188225666f9021ba8f494e8afcd1.jpg_720x720q80.jpg_.webp",
+        "qty" : 510000,
+        "isActive": true
+    },
+    {
+        "name" : "Bandana Kerah Plaid",
+        "picture" : "https://ae01.alicdn.com/kf/HTB1ZYqJXtjvK1RjSspiq6AEqXXaZ/Anjing-Kucing-Bandana-Kerah-Plaid-Aksesoris-Hewan-Peliharaan-Anak-Anjing-Syal-Kerah-Dapat-Disesuaikan-untuk-Anjing.jpg_Q90.jpg_.webp",
+        "qty" : 50000,
+        "isActive": true
+    },
+    {
+        "name" : "Baju",
+        "picture" : "https://cf.shopee.co.id/file/637ec7cb49d4fa061bb528e0b1f0c9e4",
+        "qty" : 180000,
+        "isActive": true
+    },
+    {
+        "name" : "Hernes",
+        "picture" : "https://s1.bukalapak.com/img/1518868339/large/vest_harness_plus_tali_anjing_dan_kucing_premium.jpg",
+        "qty" : 100000,
+        "isActive": true
+    },
+    {
+        "name" : "Royal Canin Sensible",
+        "picture" : "https://res.cloudinary.com/ruparupa-com/image/upload//f_auto,q_auto:eco/v1638162132/Products/10108036_1.jpg",
+        "qty" : 380000,
+        "isActive": true
+    },
+    {
+        "name" : "Royal Canin Puppy Xsmall",
+        "picture" : "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//92/MTA-2905561/royal_canin_royal_canin_puppy_xsmall_makanan_anak_anjing_-dry-_1-5_kg-_full01_ttq4dlrn.jpg",
+        "qty" : 100000,
+        "isActive": true
+    },
+    {
+        "name" : "Treats Temptations",
+        "picture" : "https://cf.shopee.co.id/file/f48b0ca97fe7cb8608d519b19c294961",
+        "qty" : 60000,
+        "isActive": true
+    },
+    {
+        "name" : "Lickable Treats",
+        "picture" : "https://s7d2.scene7.com/is/image/PetSmart/5283720",
+        "qty" : 70000,
+        "isActive": true
+    }
+]
